@@ -3,4 +3,6 @@
  
  All code is stored in the python/src folder.
  
+ The main files are *model.py* and *agentframework.py*
+ 
  TKinter would not work for me so I left out that part, I was getting error messages It seemed like some configuration setting, but I ran out of time.
